@@ -10,7 +10,7 @@ let songItems=Array.from(document.getElementsByClassName('songItem'));
 let songs=[
     {songName:"Na Roja Nuvve",filePath:"songs/1.mp3",coverPath:"cover/na.jpg"},
     {songName:"Phir Aur Kya Chahiye",filePath:"songs/2.mp3",coverPath:"cover/p.jpg"},
-    {songName:"Dhadak Title Track",filePath:"songs/3.mp3",coverPath:"cover/dha.jpg"},
+    {songName:"Dhadak Title Track",filePath:"songs/3.mp3",coverPath:"cover/Dha.jpg"},
     {songName:"Priya Mithunam",filePath:"songs/4.mp3",coverPath:"cover/pr.jpg"},
     {songName:"Apnabanale",filePath:"songs/5.mp3",coverPath:"cover/a.jpg"},
     {songName:"Ambarsariya",filePath:"songs/6.mp3",coverPath:"cover/am.jpg"},
